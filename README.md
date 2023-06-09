@@ -35,6 +35,8 @@ Select the crouch and in the inspector choose Animation-> Root transform rotatio
 In blend tree, in blend type choose (2D Freedom Directional), parameter (InputX, InputY) , one crouch (0,-1,1) and walking (1,0,1). Bring the camera under the player 
 
 ## Program:
+#### Developed by: Akash A
+#### Register No.: 212221230003
 ### Idle To Crouch:
 ```
 using System.Collections;
